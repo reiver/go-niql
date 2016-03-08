@@ -1,6 +1,6 @@
 # go-niql
 
-Package niql (pronounced "nickel") provides parsing for a SQL-like query language (also) called "niql",
+Package **niql** (pronounced "*nickel*") provides parsing for a SQL-like query language (also) called "NiQL",
 for the Go programming language.
 
 
